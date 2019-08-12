@@ -10,7 +10,7 @@ app.use(CORS());
 const movies = [
 	{
 		id: 0,
-		title: 'The Godfather',
+		title: 'The Godfatherz',
 		director: 'Francis Ford Coppola',
 		metascore: 100,
 		stars: ['Marlon Brando', 'Al Pacino', 'Robert Duvall'],
